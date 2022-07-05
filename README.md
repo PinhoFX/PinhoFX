@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="PinhoLogo">
+<img src="logo1nb.png" min-width="300px" max-width="300px" width="300px" align="right" alt="PinhoLogo">
 
 ## Hello World ☕
 
