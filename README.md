@@ -2,7 +2,7 @@
 
 ## Hello World ☕
 
-Pinho, ou mais conhecido como PinhoFX, é um desenvolvedor Front-End, Back-End, Webdesign e Produção de Video. Produz conteúdo desde 2021 sobre desenvolvimento e programação. É louco por desafios e por tentar descobrir a polvora atraz de um Website.
+Pinho, ou mais conhecido como PinhoFX, é um desenvolvedor Front-End, Back-End, Webdesign e Produção de Video. Produz conteúdo desde 2021 sobre desenvolvimento e programação. É louco por desafios e por tentar descobrir a polvora atraz de um Website. Amo programação!
 
 #### Caso queira acompanhar meus conteúdos:
 
